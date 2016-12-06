@@ -1,0 +1,3 @@
+[submodule "docs/Area1/docfx-sample-subrepo"]
+	path = docs/Area1/docfx-sample-subrepo
+	url = https://github.com/pascalberger/docfx-sample-subrepo.git

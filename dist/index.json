@@ -1,0 +1,57 @@
+{
+  "Area1/docfx-sample-subrepo/docs/Modules/module1.html": {
+    "href": "Area1/docfx-sample-subrepo/docs/Modules/module1.html",
+    "title": "Module 1",
+    "keywords": "Module 1 Some words about Module 1."
+  },
+  "Area1/docfx-sample-subrepo/docs/Modules/module2.html": {
+    "href": "Area1/docfx-sample-subrepo/docs/Modules/module2.html",
+    "title": "Module 2",
+    "keywords": "Module 2 Some words about Module 2."
+  },
+  "Area1/docfx-sample-subrepo/README.html": {
+    "href": "Area1/docfx-sample-subrepo/README.html",
+    "title": "docfx-sample-subrepo",
+    "keywords": "docfx-sample-subrepo Sub-repository for the docfx-sample repo"
+  },
+  "Area1/docfx-sample-subrepo/docs/index.html": {
+    "href": "Area1/docfx-sample-subrepo/docs/index.html",
+    "title": "Introduction to some component",
+    "keywords": "Introduction to some component Overview Here's some overview of the component."
+  },
+  "index.html": {
+    "href": "index.html",
+    "title": "Overview",
+    "keywords": "Overview Some words about this documentation."
+  },
+  "Area1/index.html": {
+    "href": "Area1/index.html",
+    "title": "Area 1",
+    "keywords": "Area 1 Some words about the area."
+  },
+  "Area1/docfx-sample-subrepo/docs/Modules/toc.html": {
+    "href": "Area1/docfx-sample-subrepo/docs/Modules/toc.html",
+    "title": "Table of Content",
+    "keywords": ""
+  },
+  "Area1/docfx-sample-subrepo/docs/installation.html": {
+    "href": "Area1/docfx-sample-subrepo/docs/installation.html",
+    "title": "Installing the component",
+    "keywords": "Installing the component Some words how to install the component."
+  },
+  "Area1/docfx-sample-subrepo/docs/usage.html": {
+    "href": "Area1/docfx-sample-subrepo/docs/usage.html",
+    "title": "Using the component",
+    "keywords": "Using the component Some words how to use the component"
+  },
+  "toc.html": {
+    "href": "toc.html",
+    "title": "Table of Content",
+    "keywords": ""
+  },
+  "Area1/toc.html": {
+    "href": "Area1/toc.html",
+    "title": "Table of Content",
+    "keywords": ""
+  }
+}

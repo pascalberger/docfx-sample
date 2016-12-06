@@ -1,0 +1,36 @@
+{
+  "build": {
+    "content": [
+      {
+        "files": [
+          "**.md",
+          "**/toc.yml",
+          "toc.yml",
+          "*.md"
+        ],
+        "exclude": [
+          "**/bin/**",
+          "**/obj/**"          
+        ]
+      }
+    ],
+    "resource": [
+      {
+        "files": [
+          "images/**"
+        ],
+        "exclude": [
+          "**/bin/**",
+          "**/obj/**"
+        ]
+      }
+    ],
+    "dest": "../dist",
+    "globalMetadata": {
+      "_gitUrlPattern": "github"
+    },
+    "template": ["default"],
+    "postProcessors": ["ExtractSearchIndex"],
+    "noLangKeyword": false
+  }
+}
